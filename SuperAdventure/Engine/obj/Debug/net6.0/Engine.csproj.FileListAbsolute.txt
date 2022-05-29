@@ -1,0 +1,12 @@
+C:\git\SuperAdventure\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\git\SuperAdventure\Engine\bin\Debug\net6.0\Engine.dll
+C:\git\SuperAdventure\Engine\bin\Debug\net6.0\Engine.pdb
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\Engine.dll
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\Engine.pdb
+C:\git\SuperAdventure\Engine\obj\Debug\net6.0\ref\Engine.dll
